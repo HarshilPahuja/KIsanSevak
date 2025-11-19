@@ -7,7 +7,7 @@ KisanSevak is a digital support platform designed to empower farmers with **weat
 
 ---
 
-Teammates- Pratyush dev, Arpit rish raj, Aditya kamlapurkar
+Teammates- Pratyush dev, Arpit rishi raj, Aditya kamlapurkar
 
 ## 🌱 Key Features
 
@@ -52,6 +52,7 @@ VITE_MAPBOX_ACCESS_TOKEN=<your-mapbox-token>
 
 Start the Development Server
 npm run dev
+
 
 
 
